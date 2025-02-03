@@ -381,7 +381,7 @@ function pgindex(){
 
     <h1> Para consultar as escolas da sua região insira o seu CEP na caixa de texto abaixo. </h1>
     <h2>Digite seu CEP (apenas números)</h2>
-    <p><b>⚠️ - Por hora apenas CEPs do estado de São Paulo estão cadastrados no sistema.</b></p>
+    <p><b>⚠️ - Por ora, apenas CEPs do estado de São Paulo estão cadastrados no sistema.</b></p>
     <input type="number" id="index-cep" class="blog-input-texto" ><br>
     <a href="javascript:consultacep()" class="bt-download-pq" style="color: #000000;" >Enviar</a>
     <span style="clor: #500000; font-size: 1.8em;" id="index-span" ></span>
